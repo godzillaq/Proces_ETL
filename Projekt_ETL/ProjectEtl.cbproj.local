@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.777,C:\Users\Tomek\Desktop\ETL Projekt\PokazDane.cpp=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.432,C:\Users\Tomek\Desktop\ETL Projekt\Unit1.h=C:\Users\Tomek\Desktop\ETL Projekt\UParsuj.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.401,C:\Users\Tomek\Desktop\ETL Projekt\DMnBaza.cpp=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.519,=C:\Users\Tomek\Documents\RAD Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.745,C:\Users\Tomek\Desktop\ETL Projekt\FMnExTractor.cpp=C:\Users\Tomek\Documents\RAD Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.401,C:\Users\Tomek\Desktop\ETL Projekt\DMnBaza.h=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.436,=C:\Users\Tomek\Documents\RAD Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.197,C:\Users\Tomek\Desktop\ETL Projekt\FMnPokazDane.cpp=C:\Users\Tomek\Desktop\ETL Projekt\PokazDane.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.777,C:\Users\Tomek\Desktop\ETL Projekt\PokazDane.h=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.197,C:\Users\Tomek\Desktop\ETL Projekt\FMnPokazDane.h=C:\Users\Tomek\Desktop\ETL Projekt\PokazDane.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.401,C:\Users\Tomek\Desktop\ETL Projekt\DMnBaza.dfm=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.745,C:\Users\Tomek\Desktop\ETL Projekt\FMnExTractor.dfm=C:\Users\Tomek\Documents\RAD Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.197,C:\Users\Tomek\Desktop\ETL Projekt\FMnPokazDane.dfm=C:\Users\Tomek\Desktop\ETL Projekt\PokazDane.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.504,C:\Users\Tomek\Desktop\ETL Projekt\DMnLadujDane.dfm=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.337,C:\Users\Tomek\Desktop\ETL Projekt\ProjectEtl.cbproj=C:\Users\Tomek\Documents\RAD Studio\Projects\Project3.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.901,C:\Users\Tomek\Desktop\ETL Projekt\UProdukty.cpp=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.745,C:\Users\Tomek\Desktop\ETL Projekt\FMnExTractor.h=C:\Users\Tomek\Documents\RAD Studio\Projects\Unit5.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.795,C:\Users\Tomek\Desktop\ETL Projekt\ProjektETL.h=C:\Users\Tomek\Documents\RAD Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.504,C:\Users\Tomek\Desktop\ETL Projekt\DMnLadujDane.h=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.531,C:\Users\Tomek\Desktop\ETL Projekt\DMnLadujDane.cpp=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.777,C:\Users\Tomek\Desktop\ETL Projekt\PokazDane.dfm=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.901,C:\Users\Tomek\Desktop\ETL Projekt\UProdukty.h=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.504,C:\Users\Tomek\Desktop\ETL Projekt\DMnLadujDane.cpp=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.432,C:\Users\Tomek\Desktop\ETL Projekt\Unit1.cpp=C:\Users\Tomek\Desktop\ETL Projekt\UParsuj.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.629,=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.282,=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.121,=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.267,=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.862,=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.611,=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.567,=C:\Users\Tomek\Desktop\ETL Projekt\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
